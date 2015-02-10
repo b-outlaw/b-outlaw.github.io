@@ -1,0 +1,136 @@
+body, html {
+	font:					85% "Nobile", "Lucida Grande", "Trebuchet MS", sans-serif;
+	color:					#E3E3E3;
+	margin:					0;
+	padding:				0;
+}
+
+a {
+	color:					#333F3B;
+	font-weight:			bold;
+	text-decoration:		none;
+}
+
+a:hover {
+	color:					#5FBB2E;
+}
+
+
+a.green {
+	color:					#5FBB2E;
+	font-weight:			bold;
+	text-decoration:		none;
+}
+
+a.green:hover {
+	color:					#FFF;
+}
+
+
+h1, h2, h3 { margin-top:0; }
+label {
+	font-size:				1.25em;
+	font-weight: 			bold;
+	padding-left:			5px;
+}
+
+.small_print 	{ color:#87CB62; }
+
+.float-left 	{ float:left; }
+.float-right 	{ float:right; }
+.clear 			{ clear:both; }
+.block			{ display:block; }
+.width-220		{ width:220px; }
+.width-250		{ width:250px; }
+.width-300		{ width:300px; }
+.width-460		{ width:460px; }
+.width-620		{ width:620px; }
+.prepend		{ margin-left:10px; }
+.prepend-top	{ margin-top:10px; }
+.append			{ margin-right:10px; }
+.append-bottom	{ margin-bottom:20px; }
+
+.pad-prepend	{ padding-left:10px; }
+.pad-append		{ padding-right:10px; }
+
+.align-right	{ text-align:right; }
+.align-left		{ text-align:left; }
+
+.error			{padding:.8em;margin-bottom:1em;border:2px solid #ddd;}
+.error			{background:#FBE3E4;color:#8a1f11;border-color:#FBC2C4;}
+
+.divider { height:1px; background:#999; clear:both; margin-bottom:2em; }
+
+
+textarea {
+	border:					none;
+	height:					100px;
+	margin:					0;
+	outline:				0;
+	padding:				0;
+	width: 					100%;
+}
+
+input.inputText {
+	border:					none;
+	font-size:				1.25em;
+	outline:				0;
+	padding:				0;
+	width:					100%;
+}
+
+input.inputButton {
+	background:				#FFF;
+	border:					none;
+	cursor:					pointer;
+	font-size:				1.25em;
+	outline:				0;
+	padding:				0;
+	width:					100%;
+}
+
+.inputHolder {
+	background:				#FFF;
+	border:					1px solid #999;
+	padding:				2px 4px;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.submitHolder {
+	background:				#FFF;
+	border:					1px solid #999;
+	padding:				2px 4px;
+	width:					100px;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.textareaHolder {
+	background:				#FFF;
+	border:					1px solid #999;
+	padding:				10px;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	}
+.clearfix { display: inline-table; }
+/* Hides from IE-mac \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* End hide from IE-mac */
