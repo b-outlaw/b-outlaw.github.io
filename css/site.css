@@ -147,7 +147,7 @@ body {
 }
 
 #MiddleOutter {
-    background:#343F3B url(../images/headerBG.png) bottom center repeat-x;
+    background:#343F3B /*url(../images/headerBG.png) bottom center repeat-x*/;
     border-top: 1px solid #000;
     border-bottom: 1px solid #000;
     color:#FFF;
