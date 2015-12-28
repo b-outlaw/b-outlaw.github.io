@@ -227,7 +227,7 @@ body {
     background: black;
     background-size: cover;
     background-position: center;
-  background-image:url(skeleton.gif);
+/*  background-image:url(skeleton.gif);*/
   color:#D0D0D0;
     text-shadow: 0px 0px 8px rgba(150, 144, 255, 1);
 }
