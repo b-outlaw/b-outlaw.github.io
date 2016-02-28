@@ -10,6 +10,7 @@
 .gradient-noise {
   background-image: url(../images/noise.png);
   background-color:#FFF;
+  text-shadow: 0px 0px 12px rgba(0, 0, 0, 1);
 }
 
 .height-vh {
