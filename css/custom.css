@@ -4,5 +4,5 @@ body {
   background: -webkit-linear-gradient(top,  #222222 0%,#333333 100%);
   background: linear-gradient(to bottom,  #222222 0%,#333333 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222222', endColorstr='#333333',GradientType=0 );
-  color: #CCC;
+  color: #FFF;
 }
