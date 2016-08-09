@@ -147,7 +147,6 @@ header .social-info li a:hover {
 }
 #banner .block .download-btn li .btn-andriod {
   background: #6fbf39;
-  display: none;
   border: 1px solid transparent;
   -webkit-transition: .2s all;
   -o-transition: .2s all;
